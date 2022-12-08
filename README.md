@@ -1,6 +1,6 @@
 # module 2 - web dev basics / hometown-homepage (SOLO PROJECT)
 
-### Check it out here (deployed on netlify): https://remarkable-haupia-af784f.netlify.app/
+### Check it out here (deployed on netlify): https://cool-queijadas-53110b.netlify.app/
 
 <br />
 
